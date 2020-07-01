@@ -1,0 +1,9 @@
+{
+  "name": "estudos-css",
+  "version": "1.0.0",
+  "description": "Meus estudos de CSS",
+  "main": "index.js",
+  "repository": "https://github.com/WerterAllan/UI-CSS.git",
+  "author": "werter",
+  "license": "MIT"
+}
